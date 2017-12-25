@@ -1,0 +1,12 @@
+Critiques
+
+* roads confusing
+* make it look like you're moving forward
+* help screen
+	* more instructions on splash screen
+* arrow on map that shows which direction you're facing
+* wolf can pop up more times / have more interactions
+* make back more clear
+* make tutorial for first time you play it
+* make text more highlighted
+* add more obstacles

@@ -1,0 +1,15 @@
+Competitive Analysis
+
+1. No Mans Sky (http://www.no-mans-sky.com/about/)
+
+I like how this game's scenery is generatively created. I also like how the player can interact with different planets from the first-person perspective. While playing my game I realized that if given both the bird's eye view map and the first-person view, I tended to ignore the first-person perspective. If I follow the format from No Man's Sky I can have the entire screen be the first-person view and add more interactive aspects during the path to make it more interesting for the player.
+
+2. The Path (https://www.youtube.com/watch?v=WEPSeFDM0Kg)
+
+I don't like how the first person perspective switches from including the girl to not including the girl; it seems inconsistent. In my project I'll always include the character in the first person perspective. I like the layout of the first person perspective; I can reference stills from this game when creating the scenery if I have trouble figuring out the perspectives of trees.
+
+3. Alto's Adventure (http://altosadventure.com/)
+I like how everything created is made of geometric shapes. I'll use this design style for my project, but I'd like to have the trees be recursively created so they can have individual branches. I like the small details like leaves swirling in the wind and rain falling; I can add these as features in the first-person perspective so the scenery is more rich.
+
+4. Monument Valley (http://www.monumentvalleygame.com/)
+I really love the graphics and the animation. The consistent geometric style is also shown in the main character, who is made up of simple shapes. I can use this idea in my project because I'll need to make my character using simple geometric shapes.

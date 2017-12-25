@@ -1,0 +1,76 @@
+Timesheet
+
+11/18 @ 2:00 - 2:50: figured out random maze generation
+	  @ 3:02 - 3:40: reorganized maze code
+
+11/19 @ 5:45 - 7:15: made maze
+	  @ 9:19 - 10:50: started making first-person maze
+
+11/20 @ 3:22 - 4:00: trying to figure out player path display
+	  @ 11:13 - 12:46: redid structure of maze and got first-person and bird-eye views to partially orient
+	  @ 12:55 - 1:24: made color palette
+
+11/21 @ 1:11 - 4:02: trying to figure out how to draw fractal tree
+
+11/23 @ 11:15 - 11:39: made tree skeleton
+
+11/24 @ 11:09 - 11:45: working on back controls
+	  @ 1:12 - 1:46: planning gradual path view change
+	  @ 2:43 - 4:17: fixed back control and started implementing gradual path view change
+	  @ 4:34 - 5:20: gradual path view change
+	  @ 9:39 - 10:30: changed structure of maze to incorporate directions
+
+11/25 @ 1:00 - 2:38: started splash screen
+	  @ 4:05 - 4:56: finished splash screen
+	  @ 5:03 - 6:00: wrote backtracking wolf path
+	  @ 8:08 - 9:12: added bend in road and third path views
+
+11/27 @ 8:28 - 10:52: trying to fix the maze
+
+11/28 @ 3:21 - 5:45: scrapped old first-person view; restarted
+	  @ 8:40 - 9:21: worked on splash screen
+	  @ 10:00 - 10:40: worked on background
+
+11/29 @ 9:47 - 10:16: worked on background
+	  @ 2:04 - 3:22: drew characters & started interaction aspects
+	  @ 3:25 - 4:17: debugging first-person view
+	  @ 4:20 - 5:40: more debugging & tried to debug back control
+	  @ 8:20 - 9:56: added textbox & cat
+	  @ 10:16 - 11:33: cat interactions
+
+11/30 @ 1:22 - 2:49: finished cat interactions
+	  @ 2:41 - 4:50: back control, wolf interactions & split transitions
+	  @ 6:34 - 7:13: finished wolf interactions
+	  @ 8:45 - 9:07: drew some trees
+	  @ 10:12 - 10:38 trees
+
+12/1 @ 9:43 - 11:00: fixed split view trees
+
+12/2 @ 11:31 - 12:21: added trees, reorganized code
+	 @ 10:30 - 11:00: worked on gradient
+
+12/3 @ 12:21 - 1:59: gradient
+	 @ 2:08 - 2:44: gradient
+	 @ 3:10 - 3:53: sky
+	 @ 5:00 - 5：25： skip button
+	 @ 5:41 - 5:51: skip works
+	 @ 9:26 - 10:28: snow
+
+12/4 @ 11:21 - 11:56: reorganized gradient, fixed straight path trees
+	 @ 12:03 - 12:37: fixing some bugs
+	 @ 7:11 -  7:51: learned how to draw curves in tkinter
+	 @ 8:02 - 8:10: some curvy methods
+	 @ 8:25 - 8:57: trying to swirl
+	 @ 10:27 - 11:27: made door animation
+	 @ 11:56 - 12:10: DOORS
+
+12/5 @ 9:03 - 9:44: drawing end
+	 @ 10:13 - 10:58: fixed controls
+
+12/6 @ 9：47 - 10:49: debugging & made help screen
+
+12/7 : debugging, help screen, end screen
+
+12/8: debugging
+
+TOTAL: 53 hours

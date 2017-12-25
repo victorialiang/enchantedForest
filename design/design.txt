@@ -1,0 +1,7 @@
+
+
+The problem I am solving is orienting a first person perspective to what a character would see when placed in a position on a bird's eye view perspective. To do this, I check at each position if it branches into a straight, split, bend, or split-into-three path. This is done by checking each next node in the cardinal directions and taking into account the last move made so I know which direction the user is facing. This method is also used when orienting the controls to the current perspective.
+
+To generate the maze, I largely referenced the 112 method of creating an n x n board of nodes and randomly assigning each node to either being connected in the south or east directions. This ensures that a legal maze is created each time. After making this board, I make a new 2n x 2n 2D list of booleans depending on whether a position exists or not on the n x n board.
+
+The sky gradients and tree gradients are made by a gradient function that takes in two rgb colors and a number of intervals, and finds the averages to create a list of colors in the gradient.
